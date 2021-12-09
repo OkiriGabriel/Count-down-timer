@@ -1,0 +1,81 @@
+.counter{
+    margin-top: 8rem;
+}
+
+.counter h1{
+    font-weight: bold !important;
+    color: #fff;
+    font-size: 50px;
+}
+
+.counter h2{
+    font-weight: 700 !important;
+    color: #fff;
+    font-size: 30px;
+}
+
+.counter span{
+    font-size: 17px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.ui-full-bg-norm{
+    height: 100vh;
+	width: 100%;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+	-webkit-transition: all 0.5s ease;  -moz-transition: all 0.5s ease; transition: all 0.5s ease;
+}
+
+/* hero */
+.hero{
+    width: 100%;
+  }
+  .hero .hero-inner{
+    height: 75vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .hero.hero-home .hero-inner{
+    height: 85vh;
+  }
+  
+  .hero.hero-home .hero-inner.lg{
+    height: 90vh;
+  }
+
+  .ui-wrapper {
+	width: 100%;
+	padding: 3em 0;
+}
+.ui-wrapper-large {
+    width: 100%;
+    padding: 15em 0;
+}
+.ui-wrapper-xlarge {
+	width: 100% ;
+	padding: 7em 0;
+}
+.ui-wrapper-xxlarge {
+	width: 100%;
+	padding: 9em 0;
+}
+
+.ui-wrapper-small {
+	width: 100%;
+	padding: 2em 0;
+}
+.ui-wrapper-mini {
+	width: 100%;
+	padding: 1.3em 0;
+}
+.ui-wrapper-xmini {
+	width: 100%;
+	padding: 0.8em 0;
+}
+.ui-wrapper-xxmini {
+    width: 100%;
+    padding: 0.35em 0;
+}

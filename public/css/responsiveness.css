@@ -1,0 +1,26 @@
+
+@media screen and (max-width:576px){
+    .ui-wrapper-large {
+        width: 100%;
+        padding: 6em 0 !important;
+    }
+
+    .counter h1{
+        font-weight: bold !important;
+        color: #fff;
+        font-size: 33px;
+    }
+    
+    .counter h2{
+        font-weight: 700 !important;
+        color: #fff;
+        font-size: 20px;
+    }
+    
+    .counter span{
+        font-size: 14px;
+        color: rgb(25, 100, 199);
+        font-weight: bold;
+        
+    }
+}
