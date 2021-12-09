@@ -1,9 +1,8 @@
 import React, { Suspense } from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import MainLoader from './components/helpers/MainLoader'
-// import Axios from 'axios';
-import {Link, useParams, useHistory} from 'react-router-dom';
-import * as moment from 'moment';
+import Axios from 'axios';
+
 
 
 
