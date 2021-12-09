@@ -16,8 +16,19 @@
 
 .counter span{
     font-size: 17px;
-    color: #fff;
+    color: #000;
     font-weight: 600;
+ 
+}
+
+.timer{
+    background: #fff;
+    padding-left: 5px;
+    padding-left: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius:5px;
+    width: 50%;
 }
 
 .ui-full-bg-norm{
@@ -52,7 +63,7 @@
 }
 .ui-wrapper-large {
     width: 100%;
-    padding: 15em 0;
+    padding: 10em 0;
 }
 .ui-wrapper-xlarge {
 	width: 100% ;

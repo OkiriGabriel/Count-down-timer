@@ -73,7 +73,9 @@ const Home = () => {
                                         {/* Displaying the time left */}
                                         <h1 className=""> Count down to the End of {year} </h1>
                                         <h2 className="">New year in a bit!</h2>
+                                        <div className="timer mx-auto mt03">
                                         {timerComponents.length ? timerComponents : <span>Happy New Year!</span>}
+                                        </div>
 
                                     </div>
                                 </div>
